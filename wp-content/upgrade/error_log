@@ -1,0 +1,12 @@
+[11-Jan-2019 07:32:25 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Jan-2019 07:32:25 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/bvmscdhv/public_html/ghillsus.com/wp-content/upgrade/sq.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[11-Jan-2019 07:32:25 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Jan-2019 07:32:25 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/bvmscdhv/public_html/ghillsus.com/wp-content/upgrade/sq.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[11-Jan-2019 07:32:27 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Jan-2019 07:32:27 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/bvmscdhv/public_html/ghillsus.com/wp-content/upgrade/sq.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[11-Jan-2019 07:32:28 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Jan-2019 07:32:28 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/bvmscdhv/public_html/ghillsus.com/wp-content/upgrade/sq.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[11-Jan-2019 07:32:30 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[11-Jan-2019 07:32:30 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/bvmscdhv/public_html/ghillsus.com/wp-content/upgrade/sq.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0
+[15-Jan-2019 16:05:32 Etc/GMT] PHP Warning:  Unknown: failed to open stream: Permission denied in Unknown on line 0
+[15-Jan-2019 16:05:32 Etc/GMT] PHP Fatal error:  Unknown: Failed opening required '/home3/bvmscdhv/public_html/ghillsus.com/wp-content/upgrade/sq.php' (include_path='.:/opt/alt/php71/usr/share/pear') in Unknown on line 0

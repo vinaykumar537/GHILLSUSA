@@ -1,0 +1,10 @@
+[18-Jan-2019 02:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ghills_custom_colors_css() in /home3/bvmscdhv/public_html/ghillsus.com/wp-content/themes/ghills/functions.php:407
+Stack trace:
+#0 /home3/bvmscdhv/public_html/ghillsus.com/wp-includes/class-wp-hook.php(286): ghills_colors_css_wrap('')
+#1 /home3/bvmscdhv/public_html/ghillsus.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home3/bvmscdhv/public_html/ghillsus.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home3/bvmscdhv/public_html/ghillsus.com/wp-includes/general-template.php(2614): do_action('wp_head')
+#4 /home3/bvmscdhv/public_html/ghillsus.com/wp-content/themes/ghills/header.php(34): wp_head()
+#5 /home3/bvmscdhv/public_html/ghillsus.com/wp-includes/template.php(688): require_once('/home3/bvmscdhv...')
+#6 /home3/bvmscdhv/public_html/ghillsus.com/wp-includes/template.php(647): load_template('/home3/bvmscdhv...', true)
+#7 /home3/bvmscdhv/public_html/ghillsus.com/wp-includes/general-template.php(41): locate_template(Array,  in /home3/bvmscdhv/public_html/ghillsus.com/wp-content/themes/ghills/functions.php on line 407

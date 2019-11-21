@@ -1,0 +1,258 @@
+.inner_content {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.service-card.card-3::before, .service-card.card-4::before {
+    background-image: none;
+}
+.page_title {
+    padding-top: 115px;
+    background-color: #125BB9;
+    color: #fff;
+    min-height: 180px;
+}
+.page_title h2{
+    color: #fff;
+    font-size: 30px;
+}
+.footer-copybar a:hover {
+    text-decoration: underline;
+}
+.contact_address li {
+    position: relative;
+    padding: 5px 0px 5px 35px;
+}
+.contact_address .fa {
+    left: -5px;
+    top: 5px;
+    font-size: 25px;
+    position: absolute;
+    color: #125BB9;
+}
+.contact_address_title {
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 5px;
+    display: block;
+    width: 100%;
+    line-height: 30px;
+    padding-left: 10px;
+    color: #ff9e11;
+}
+.wpcf7-form label {
+    font-weight: normal;
+}
+.star {
+    color: #ff9e11;
+    padding-left: 2px;
+}
+.wpcf7-form-control.wpcf7-textarea {
+    height: 100px;
+    width: 100%;
+}
+.wpcf7-form input {
+    width: 100%;
+    color: #333;
+    padding-left: 5px;
+}
+div.wpcf7-response-output {
+   margin: 0;
+}    
+.wpcf7-form-control.wpcf7-submit {
+    background: #ff9e11;
+    border: none;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    width: auto;
+}
+.wpcf7-form-control.wpcf7-submit:hover{
+    background: #125BB9;
+}
+.research_list img {
+    float: left;
+    padding-right: 20px;
+}
+.research_list .list-style-1 {
+    display: inline-block;
+    padding-left: 20px;
+}
+.panel img {
+    border: 1px solid #ccc;
+}
+.service-panel .service-icon i {
+    font-size: 40px;
+    color: #FF5925;
+}
+.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.col-md-8.text-middle{
+    padding-top: 30px;
+}
+.case_studies_results {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 10%;
+    margin-left: 10%;
+    padding-top: 20px;
+    text-align: left;
+}
+.technical_expertise {
+    text-align: center;
+}
+.technical_expertise h2 {
+    color: #fff;
+    background: #5b9bd5;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.technical_expertise ul li{
+    list-style: none;
+
+}
+.data_science_analytics {
+    background: #125BB9;
+    color: #fff;
+}
+.data_analysis_img {
+    border: 1px solid #ccc;
+    border-right: 0;
+}
+.data_science_analytics h2 {
+    /* line-height: 30px; */
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.pum-close.popmake-close{
+    display: none;
+}
+.pum-container.pum-responsive.pum-responsive-small{
+    background: #125BB9;
+    border-radius: 10px;
+}
+.pum-container.pum-responsive.pum-responsive-small .pum-title {
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+}
+.pum-content label{
+    color: #fff;
+    font-size: 18px;
+}
+.pum-container.pum-responsive.pum-responsive-small .wpcf7-form-control.wpcf7-submit {
+    border: 1px solid #fff;
+}
+.pum-container.pum-responsive.pum-responsive-small .wpcf7-form-control.wpcf7-submit:hover {
+    border: 1px solid #fff;
+}
+.pum-container.pum-responsive.pum-responsive-small span.wpcf7-not-valid-tip {
+    color: #ff9e11;	
+}
+.pum-container.pum-responsive.pum-responsive-small div.wpcf7-validation-errors{
+    border: 1px solid #f7e700;
+    color: #ff9e11;
+}
+.pum-container.pum-responsive.pum-responsive-small .wpcf7-form input[type="email"] {
+    width: 100%;
+    border: 1px solid #ff9e11;
+    height: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-left: 5px;
+}
+.pum-container.pum-responsive.pum-responsive-small .wpcf7-mail-sent-ok {
+    border: 1px solid #fff;
+    color: #ff9e11;
+}
+.div-border {
+    border: solid 1px #d4d9ec;
+    border-radius: 0 25px 25px 0;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+.label-primary {
+    padding: 15px;
+    background: #4472c4;
+    font-size: 25px;
+    font-weight: 400;
+}
+.display-block {
+    display: block;
+}
+.our_vision ul {
+    padding-left: 20px;
+}
+.img-text-pan{ position:relative}
+.img-text-pan .img-text{ position:absolute; width:250px; font-size:15px; }
+.img-text-pan .img-text.text-1{ left:55px; top:80px;}
+.img-text-pan .img-text.text-2{ right:60px; top:80px;}
+.img-text-pan .img-text.text-3{ left:55px; bottom:-30px;}
+.img-text-pan .img-text.text-4{ right:60px; bottom:-20px;}
+
+.techLogo{ background:#fff; box-shadow:0 10px 50px rgba(0, 0, 0, 0); text-align:center; padding:5px 0px 30px 0px; margin-bottom:15px; position:relative;  border:solid 1px #e6e8f2 }
+.techLogo img{ width:100%; height:auto}
+.techLogo p{ position:absolute; left:0px; right:0px; bottom:-10px;  font-size:16px; border-top:solid 1px #e6e8f2 }
+
+.panel-tech{ background:#f3f3f3;}
+.panel-tech .panel-heading{ border-bottom:solid 1px #e6e8f2 !important; padding:10px 15px; }
+.panel-tech .panel-heading .panel-title {
+	font-size: 24px;
+	text-align: center;
+	/* color: #125BB9; */
+}
+@media screen and (max-width: 1200px) {
+    .img-text-pan .img-text.text-1{ left:10px; top:80px;}
+    .img-text-pan .img-text.text-2{ right:0px; top:80px;}
+    .img-text-pan .img-text.text-3{ left:10px; bottom:-30px;}
+    .img-text-pan .img-text.text-4{ right:0px; bottom:-20px;}	
+
+}
+
+@media screen and (max-width: 1024px) {
+    .cPan{ padding:20px; }
+
+
+    .img-text-pan .img-text{ position: static; width: auto; margin-bottom:10px;}
+}
+@media screen and (max-width: 768px) {
+    .inner_content {
+        min-height: 500px;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+    }
+    .research_list .list-style-1 {
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    .case_studies_results {
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+.list_bg_color {
+	background: #f3f3f3;
+	padding: 20px;
+}
+.list_bg_color1{
+	padding: 20px;
+}
+.page-id-22 .list-style-1 li::before {
+    content: "\f111";
+    color: #125BB9;
+    font-size: 5px;
+}
+.page-id-22 .list-style-1 {
+	padding-left: 20px;
+}
